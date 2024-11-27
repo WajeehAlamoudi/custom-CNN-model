@@ -63,9 +63,8 @@ renaming the folder names (optinal).
 - Run the Notebook:
 
 Debugging lines added to ease the further error resolving.
-- Make a predication:
-
-  You can use two provided images cat.jpg and dog.jpg
+- Make a predication and evaluating the model:
+You can use two provided images cat.jpg and dog.jpg to make a prediction and testing you model.
 # Key Code Highlights
 - Plot Class Distribution:
 
