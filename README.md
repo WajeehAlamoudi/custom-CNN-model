@@ -57,9 +57,10 @@ Inside valid, create two subfolders: cats and dogs.
 Move Images into Validation
 
 Move 1k images from train/cats to valid/cats.
+
 Move 1k images from train/dogs to valid/dogs.
 
-renaming the folder names (optinal).
+Renaming the folder names (optinal).
 - Run the Notebook:
 
 Debugging lines added to ease the further error resolving.
