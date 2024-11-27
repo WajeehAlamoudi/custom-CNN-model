@@ -60,9 +60,11 @@ Move 1k images from train/cats to valid/cats.
 Move 1k images from train/dogs to valid/dogs.
 
 renaming the folder names (optinal).
-- Run the Notebook
+- Run the Notebook:
+
 Debugging lines added to ease the further error resolving.
-- Make a predication
+- Make a predication:
+
   You can use two provided images cat.jpg and dog.jpg
 # Key Code Highlights
 - Plot Class Distribution:
